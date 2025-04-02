@@ -1,6 +1,6 @@
 # **Classification Algorithms Comparison – Diabetes Prediction**
 
-This notebook compares different classification algorithms on a diabetes dataset.
+This short notebook compares different classification algorithms on a diabetes dataset.
 
 ### **Models implemented:**
 * ##### **Logistic Regression**
