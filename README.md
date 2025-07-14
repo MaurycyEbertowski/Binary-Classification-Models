@@ -6,4 +6,5 @@ This short notebook compares different classification algorithms on a diabetes d
 * ##### **Logistic Regression**
 * ##### **Support Vector Classifier**
 * ##### **K-Nearest Neighbors**
-* ##### **Decision Tree**
+* ##### **Random Forest**
+* ##### **XGBoost**
